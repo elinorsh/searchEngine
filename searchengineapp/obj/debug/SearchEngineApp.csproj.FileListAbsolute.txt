@@ -1,0 +1,348 @@
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\bin\Debug\SearchEngineApp.exe.config
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\bin\Debug\SearchEngineApp.exe
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\bin\Debug\SearchEngineApp.pdb
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\SearchEngineApp.csprojResolveAssemblyReference.cache
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\MainWindow.g.cs
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\App.g.cs
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.cache
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.lref
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\MainWindow.baml
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\SearchEngineApp.g.resources
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\SearchEngineApp.Properties.Resources.resources
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\SearchEngineApp.csproj.GenerateResource.Cache
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\SearchEngineApp.exe
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\SearchEngineApp.pdb
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\bin\Debug\SearchEngineApp.exe.config
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\SearchEngineApp.exe
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\SearchEngineApp.pdb
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\MainWindow.g.cs
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\App.g.cs
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.cache
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.lref
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\bin\Debug\SearchEngineApp.exe
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\bin\Debug\SearchEngineApp.pdb
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\MainWindow.baml
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\SearchEngineApp.g.resources
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\SearchEngineApp.Properties.Resources.resources
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\SearchEngineApp.csproj.GenerateResource.Cache
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\SearchEngineApp.csprojResolveAssemblyReference.cache
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\Window1.g.cs
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\Window1.baml
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\WindowLanguagesList.g.cs
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\WindowLanguagesList.baml
+D:\New folder\SearchEngineApp\SearchEngineApp\bin\Debug\SearchEngineApp.exe.config
+D:\New folder\SearchEngineApp\SearchEngineApp\obj\Debug\SearchEngineApp.exe
+D:\New folder\SearchEngineApp\SearchEngineApp\obj\Debug\SearchEngineApp.pdb
+D:\New folder\SearchEngineApp\SearchEngineApp\bin\Debug\SearchEngineApp.exe
+D:\New folder\SearchEngineApp\SearchEngineApp\bin\Debug\SearchEngineApp.pdb
+D:\New folder\SearchEngineApp\SearchEngineApp\bin\Debug\mscorlib.dll
+D:\New folder\SearchEngineApp\SearchEngineApp\bin\Debug\normidna.nlp
+D:\New folder\SearchEngineApp\SearchEngineApp\bin\Debug\normnfc.nlp
+D:\New folder\SearchEngineApp\SearchEngineApp\bin\Debug\normnfd.nlp
+D:\New folder\SearchEngineApp\SearchEngineApp\bin\Debug\normnfkc.nlp
+D:\New folder\SearchEngineApp\SearchEngineApp\bin\Debug\normnfkd.nlp
+D:\New folder\SearchEngineApp\SearchEngineApp\obj\Debug\SearchEngineApp.csprojResolveAssemblyReference.cache
+D:\New folder\SearchEngineApp\SearchEngineApp\obj\Debug\MainWindow.g.cs
+D:\New folder\SearchEngineApp\SearchEngineApp\obj\Debug\Window1.g.cs
+D:\New folder\SearchEngineApp\SearchEngineApp\obj\Debug\WindowLanguagesList.g.cs
+D:\New folder\SearchEngineApp\SearchEngineApp\obj\Debug\App.g.cs
+D:\New folder\SearchEngineApp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.cache
+D:\New folder\SearchEngineApp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.lref
+D:\New folder\SearchEngineApp\SearchEngineApp\obj\Debug\MainWindow.baml
+D:\New folder\SearchEngineApp\SearchEngineApp\obj\Debug\Window1.baml
+D:\New folder\SearchEngineApp\SearchEngineApp\obj\Debug\WindowLanguagesList.baml
+D:\New folder\SearchEngineApp\SearchEngineApp\obj\Debug\SearchEngineApp.g.resources
+D:\New folder\SearchEngineApp\SearchEngineApp\obj\Debug\SearchEngineApp.Properties.Resources.resources
+D:\New folder\SearchEngineApp\SearchEngineApp\obj\Debug\SearchEngineApp.csproj.GenerateResource.Cache
+D:\AAANew folder (2)\code\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.exe.config
+D:\AAANew folder (2)\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.exe
+D:\AAANew folder (2)\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.pdb
+D:\AAANew folder (2)\code\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.exe
+D:\AAANew folder (2)\code\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.pdb
+D:\AAANew folder (2)\code\searchengineapp\SearchEngineApp\bin\Debug\mscorlib.dll
+D:\AAANew folder (2)\code\searchengineapp\SearchEngineApp\bin\Debug\normidna.nlp
+D:\AAANew folder (2)\code\searchengineapp\SearchEngineApp\bin\Debug\normnfc.nlp
+D:\AAANew folder (2)\code\searchengineapp\SearchEngineApp\bin\Debug\normnfd.nlp
+D:\AAANew folder (2)\code\searchengineapp\SearchEngineApp\bin\Debug\normnfkc.nlp
+D:\AAANew folder (2)\code\searchengineapp\SearchEngineApp\bin\Debug\normnfkd.nlp
+D:\AAANew folder (2)\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.csprojResolveAssemblyReference.cache
+D:\AAANew folder (2)\code\searchengineapp\SearchEngineApp\obj\Debug\MainWindow.g.cs
+D:\AAANew folder (2)\code\searchengineapp\SearchEngineApp\obj\Debug\Window1.g.cs
+D:\AAANew folder (2)\code\searchengineapp\SearchEngineApp\obj\Debug\WindowLanguagesList.g.cs
+D:\AAANew folder (2)\code\searchengineapp\SearchEngineApp\obj\Debug\App.g.cs
+D:\AAANew folder (2)\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.cache
+D:\AAANew folder (2)\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.lref
+D:\AAANew folder (2)\code\searchengineapp\SearchEngineApp\obj\Debug\MainWindow.baml
+D:\AAANew folder (2)\code\searchengineapp\SearchEngineApp\obj\Debug\Window1.baml
+D:\AAANew folder (2)\code\searchengineapp\SearchEngineApp\obj\Debug\WindowLanguagesList.baml
+D:\AAANew folder (2)\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.g.resources
+D:\AAANew folder (2)\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.Properties.Resources.resources
+D:\AAANew folder (2)\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.csproj.GenerateResource.Cache
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.exe.config
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.exe
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.pdb
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.exe
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.pdb
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.csprojResolveAssemblyReference.cache
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\searchengineapp\SearchEngineApp\obj\Debug\MainWindow.g.cs
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\searchengineapp\SearchEngineApp\obj\Debug\Window1.g.cs
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\searchengineapp\SearchEngineApp\obj\Debug\WindowLanguagesList.g.cs
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\searchengineapp\SearchEngineApp\obj\Debug\App.g.cs
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.cache
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.lref
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\searchengineapp\SearchEngineApp\obj\Debug\MainWindow.baml
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\searchengineapp\SearchEngineApp\obj\Debug\Window1.baml
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\searchengineapp\SearchEngineApp\obj\Debug\WindowLanguagesList.baml
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.g.resources
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.Properties.Resources.resources
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.csproj.GenerateResource.Cache
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\Window1.g.cs
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\WindowLanguagesList.g.cs
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\Window1.baml
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\SearchEngineApp\SearchEngineApp\obj\Debug\WindowLanguagesList.baml
+D:\New folder (3)\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.exe.config
+D:\New folder (3)\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.exe
+D:\New folder (3)\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.pdb
+D:\New folder (3)\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.exe
+D:\New folder (3)\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.pdb
+D:\New folder (3)\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.csprojResolveAssemblyReference.cache
+D:\New folder (3)\searchengineapp\SearchEngineApp\obj\Debug\MainWindow.g.cs
+D:\New folder (3)\searchengineapp\SearchEngineApp\obj\Debug\Window1.g.cs
+D:\New folder (3)\searchengineapp\SearchEngineApp\obj\Debug\WindowLanguagesList.g.cs
+D:\New folder (3)\searchengineapp\SearchEngineApp\obj\Debug\App.g.cs
+D:\New folder (3)\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.cache
+D:\New folder (3)\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.lref
+D:\New folder (3)\searchengineapp\SearchEngineApp\obj\Debug\MainWindow.baml
+D:\New folder (3)\searchengineapp\SearchEngineApp\obj\Debug\Window1.baml
+D:\New folder (3)\searchengineapp\SearchEngineApp\obj\Debug\WindowLanguagesList.baml
+D:\New folder (3)\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.g.resources
+D:\New folder (3)\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.Properties.Resources.resources
+D:\New folder (3)\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.csproj.GenerateResource.Cache
+D:\New folder (3)\searchengineapp\SearchEngineApp\bin\Debug\Hunspellx64.dll
+D:\New folder (3)\searchengineapp\SearchEngineApp\bin\Debug\Hunspellx86.dll
+D:\New folder (3)\searchengineapp\SearchEngineApp\bin\Debug\NHunspell.dll
+D:\New folder (3)\searchengineapp\SearchEngineApp\bin\Debug\NHunspell.pdb
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\code\searchengineapp\SearchEngineApp\bin\Debug\Hunspellx64.dll
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\code\searchengineapp\SearchEngineApp\bin\Debug\Hunspellx86.dll
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\code\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.exe.config
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\code\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.exe
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\code\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.pdb
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\code\searchengineapp\SearchEngineApp\bin\Debug\NHunspell.dll
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\code\searchengineapp\SearchEngineApp\bin\Debug\NHunspell.pdb
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.csprojResolveAssemblyReference.cache
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\code\searchengineapp\SearchEngineApp\obj\Debug\MainWindow.g.cs
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\code\searchengineapp\SearchEngineApp\obj\Debug\Window1.g.cs
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\code\searchengineapp\SearchEngineApp\obj\Debug\WindowLanguagesList.g.cs
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\code\searchengineapp\SearchEngineApp\obj\Debug\App.g.cs
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.cache
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.lref
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\code\searchengineapp\SearchEngineApp\obj\Debug\MainWindow.baml
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\code\searchengineapp\SearchEngineApp\obj\Debug\Window1.baml
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\code\searchengineapp\SearchEngineApp\obj\Debug\WindowLanguagesList.baml
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.g.resources
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.Properties.Resources.resources
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.csproj.GenerateResource.Cache
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.exe
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\code\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.pdb
+C:\Users\Elinor\Desktop\code\searchengineapp\SearchEngineApp\bin\Debug\Hunspellx64.dll
+C:\Users\Elinor\Desktop\code\searchengineapp\SearchEngineApp\bin\Debug\Hunspellx86.dll
+C:\Users\Elinor\Desktop\code\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.exe.config
+C:\Users\Elinor\Desktop\code\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.exe
+C:\Users\Elinor\Desktop\code\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.pdb
+C:\Users\Elinor\Desktop\code\searchengineapp\SearchEngineApp\bin\Debug\NHunspell.dll
+C:\Users\Elinor\Desktop\code\searchengineapp\SearchEngineApp\bin\Debug\NHunspell.pdb
+C:\Users\Elinor\Desktop\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.csprojResolveAssemblyReference.cache
+C:\Users\Elinor\Desktop\code\searchengineapp\SearchEngineApp\obj\Debug\MainWindow.g.cs
+C:\Users\Elinor\Desktop\code\searchengineapp\SearchEngineApp\obj\Debug\Window1.g.cs
+C:\Users\Elinor\Desktop\code\searchengineapp\SearchEngineApp\obj\Debug\WindowLanguagesList.g.cs
+C:\Users\Elinor\Desktop\code\searchengineapp\SearchEngineApp\obj\Debug\App.g.cs
+C:\Users\Elinor\Desktop\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.cache
+C:\Users\Elinor\Desktop\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.lref
+C:\Users\Elinor\Desktop\code\searchengineapp\SearchEngineApp\obj\Debug\MainWindow.baml
+C:\Users\Elinor\Desktop\code\searchengineapp\SearchEngineApp\obj\Debug\Window1.baml
+C:\Users\Elinor\Desktop\code\searchengineapp\SearchEngineApp\obj\Debug\WindowLanguagesList.baml
+C:\Users\Elinor\Desktop\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.g.resources
+C:\Users\Elinor\Desktop\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.Properties.Resources.resources
+C:\Users\Elinor\Desktop\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.csproj.GenerateResource.Cache
+C:\Users\Elinor\Desktop\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.exe
+C:\Users\Elinor\Desktop\code\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.pdb
+D:\A\searchengineapp\SearchEngineApp\bin\Debug\Hunspellx64.dll
+D:\A\searchengineapp\SearchEngineApp\bin\Debug\Hunspellx86.dll
+D:\A\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.exe.config
+D:\A\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.exe
+D:\A\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.pdb
+D:\A\searchengineapp\SearchEngineApp\bin\Debug\NHunspell.dll
+D:\A\searchengineapp\SearchEngineApp\bin\Debug\NHunspell.pdb
+D:\A\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.csprojResolveAssemblyReference.cache
+D:\A\searchengineapp\SearchEngineApp\obj\Debug\MainWindow.g.cs
+D:\A\searchengineapp\SearchEngineApp\obj\Debug\Window1.g.cs
+D:\A\searchengineapp\SearchEngineApp\obj\Debug\WindowLanguagesList.g.cs
+D:\A\searchengineapp\SearchEngineApp\obj\Debug\App.g.cs
+D:\A\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.cache
+D:\A\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.lref
+D:\A\searchengineapp\SearchEngineApp\obj\Debug\MainWindow.baml
+D:\A\searchengineapp\SearchEngineApp\obj\Debug\Window1.baml
+D:\A\searchengineapp\SearchEngineApp\obj\Debug\WindowLanguagesList.baml
+D:\A\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.g.resources
+D:\A\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.Properties.Resources.resources
+D:\A\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.csproj.GenerateResource.Cache
+D:\A\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.exe
+D:\A\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.pdb
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\codeNew\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\Hunspellx64.dll
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\codeNew\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\Hunspellx86.dll
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\codeNew\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.exe.config
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\codeNew\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.exe
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\codeNew\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.pdb
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\codeNew\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\NHunspell.dll
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\codeNew\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\NHunspell.pdb
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\codeNew\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.csprojResolveAssemblyReference.cache
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\codeNew\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\MainWindow.g.cs
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\codeNew\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\Window1.g.cs
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\codeNew\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\WindowLanguagesList.g.cs
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\codeNew\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\App.g.cs
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\codeNew\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.cache
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\codeNew\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.lref
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\codeNew\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\MainWindow.baml
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\codeNew\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\Window1.baml
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\codeNew\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\WindowLanguagesList.baml
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\codeNew\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.g.resources
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\codeNew\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.Properties.Resources.resources
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\codeNew\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.csproj.GenerateResource.Cache
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\codeNew\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.exe
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\codeNew\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.pdb
+D:\New folder (3)\New folder\searchengineapp\SearchEngineApp\bin\Debug\Hunspellx64.dll
+D:\New folder (3)\New folder\searchengineapp\SearchEngineApp\bin\Debug\Hunspellx86.dll
+D:\New folder (3)\New folder\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.exe.config
+D:\New folder (3)\New folder\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.exe
+D:\New folder (3)\New folder\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.pdb
+D:\New folder (3)\New folder\searchengineapp\SearchEngineApp\bin\Debug\NHunspell.dll
+D:\New folder (3)\New folder\searchengineapp\SearchEngineApp\bin\Debug\NHunspell.pdb
+D:\New folder (3)\New folder\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.csprojResolveAssemblyReference.cache
+D:\New folder (3)\New folder\searchengineapp\SearchEngineApp\obj\Debug\MainWindow.g.cs
+D:\New folder (3)\New folder\searchengineapp\SearchEngineApp\obj\Debug\Window1.g.cs
+D:\New folder (3)\New folder\searchengineapp\SearchEngineApp\obj\Debug\WindowLanguagesList.g.cs
+D:\New folder (3)\New folder\searchengineapp\SearchEngineApp\obj\Debug\App.g.cs
+D:\New folder (3)\New folder\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.cache
+D:\New folder (3)\New folder\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.lref
+D:\New folder (3)\New folder\searchengineapp\SearchEngineApp\obj\Debug\MainWindow.baml
+D:\New folder (3)\New folder\searchengineapp\SearchEngineApp\obj\Debug\Window1.baml
+D:\New folder (3)\New folder\searchengineapp\SearchEngineApp\obj\Debug\WindowLanguagesList.baml
+D:\New folder (3)\New folder\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.g.resources
+D:\New folder (3)\New folder\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.Properties.Resources.resources
+D:\New folder (3)\New folder\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.csproj.GenerateResource.Cache
+D:\New folder (3)\New folder\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.exe
+D:\New folder (3)\New folder\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.pdb
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\Hunspellx64.dll
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\Hunspellx86.dll
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.exe.config
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.exe
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.pdb
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\NHunspell.dll
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\NHunspell.pdb
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.csprojResolveAssemblyReference.cache
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\MainWindow.g.cs
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\Window1.g.cs
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\WindowLanguagesList.g.cs
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\App.g.cs
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.cache
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.lref
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\MainWindow.baml
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\Window1.baml
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\WindowLanguagesList.baml
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.g.resources
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.Properties.Resources.resources
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.csproj.GenerateResource.Cache
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.exe
+C:\Users\user\Dropbox\Information Systems Engineering\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.pdb
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.csprojResolveAssemblyReference.cache
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\MainWindow.g.cs
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\Window1.g.cs
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\WindowLanguagesList.g.cs
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\App.g.cs
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.cache
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.lref
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.exe
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.pdb
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\Hunspellx64.dll
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\Hunspellx86.dll
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.exe.config
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.exe
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.pdb
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\NHunspell.dll
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\NHunspell.pdb
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\MainWindow.baml
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\Window1.baml
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\WindowLanguagesList.baml
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.g.resources
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.Properties.Resources.resources
+C:\Users\Elinor\Dropbox\אחזור\מנוע1\Code\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.csproj.GenerateResource.Cache
+C:\Users\Elinor\Desktop\searchengineapp\SearchEngineApp\bin\Debug\Hunspellx64.dll
+C:\Users\Elinor\Desktop\searchengineapp\SearchEngineApp\bin\Debug\Hunspellx86.dll
+C:\Users\Elinor\Desktop\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.exe.config
+C:\Users\Elinor\Desktop\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.exe
+C:\Users\Elinor\Desktop\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.pdb
+C:\Users\Elinor\Desktop\searchengineapp\SearchEngineApp\bin\Debug\NHunspell.dll
+C:\Users\Elinor\Desktop\searchengineapp\SearchEngineApp\bin\Debug\NHunspell.pdb
+C:\Users\Elinor\Desktop\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.csprojResolveAssemblyReference.cache
+C:\Users\Elinor\Desktop\searchengineapp\SearchEngineApp\obj\Debug\MainWindow.g.cs
+C:\Users\Elinor\Desktop\searchengineapp\SearchEngineApp\obj\Debug\Window1.g.cs
+C:\Users\Elinor\Desktop\searchengineapp\SearchEngineApp\obj\Debug\WindowLanguagesList.g.cs
+C:\Users\Elinor\Desktop\searchengineapp\SearchEngineApp\obj\Debug\App.g.cs
+C:\Users\Elinor\Desktop\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.cache
+C:\Users\Elinor\Desktop\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.lref
+C:\Users\Elinor\Desktop\searchengineapp\SearchEngineApp\obj\Debug\MainWindow.baml
+C:\Users\Elinor\Desktop\searchengineapp\SearchEngineApp\obj\Debug\Window1.baml
+C:\Users\Elinor\Desktop\searchengineapp\SearchEngineApp\obj\Debug\WindowLanguagesList.baml
+C:\Users\Elinor\Desktop\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.g.resources
+C:\Users\Elinor\Desktop\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.Properties.Resources.resources
+C:\Users\Elinor\Desktop\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.csproj.GenerateResource.Cache
+C:\Users\Elinor\Desktop\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.exe
+C:\Users\Elinor\Desktop\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.pdb
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\Code\searchengineapp\SearchEngineApp\bin\Debug\Hunspellx64.dll
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\Code\searchengineapp\SearchEngineApp\bin\Debug\Hunspellx86.dll
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\Code\searchengineapp\SearchEngineApp\bin\Debug\NHunspell.dll
+C:\Users\nogaa\Dropbox\Information Systems Engineering\אחזור\מנוע1\Code\searchengineapp\SearchEngineApp\bin\Debug\NHunspell.pdb
+D:\AA\searchengineapp\SearchEngineApp\bin\Debug\Hunspellx64.dll
+D:\AA\searchengineapp\SearchEngineApp\bin\Debug\Hunspellx86.dll
+D:\AA\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.exe.config
+D:\AA\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.exe
+D:\AA\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.pdb
+D:\AA\searchengineapp\SearchEngineApp\bin\Debug\NHunspell.dll
+D:\AA\searchengineapp\SearchEngineApp\bin\Debug\NHunspell.pdb
+D:\AA\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.csprojResolveAssemblyReference.cache
+D:\AA\searchengineapp\SearchEngineApp\obj\Debug\MainWindow.g.cs
+D:\AA\searchengineapp\SearchEngineApp\obj\Debug\Window1.g.cs
+D:\AA\searchengineapp\SearchEngineApp\obj\Debug\WindowLanguagesList.g.cs
+D:\AA\searchengineapp\SearchEngineApp\obj\Debug\App.g.cs
+D:\AA\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.cache
+D:\AA\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.lref
+D:\AA\searchengineapp\SearchEngineApp\obj\Debug\MainWindow.baml
+D:\AA\searchengineapp\SearchEngineApp\obj\Debug\Window1.baml
+D:\AA\searchengineapp\SearchEngineApp\obj\Debug\WindowLanguagesList.baml
+D:\AA\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.g.resources
+D:\AA\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.Properties.Resources.resources
+D:\AA\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.csproj.GenerateResource.Cache
+D:\AA\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.exe
+D:\AA\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.pdb
+E:\elinor\לימודים\סמסטר ה\אחזור מידע\מנוע\חלק ב\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\Hunspellx64.dll
+E:\elinor\לימודים\סמסטר ה\אחזור מידע\מנוע\חלק ב\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\Hunspellx86.dll
+E:\elinor\לימודים\סמסטר ה\אחזור מידע\מנוע\חלק ב\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.exe.config
+E:\elinor\לימודים\סמסטר ה\אחזור מידע\מנוע\חלק ב\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.exe
+E:\elinor\לימודים\סמסטר ה\אחזור מידע\מנוע\חלק ב\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\SearchEngineApp.pdb
+E:\elinor\לימודים\סמסטר ה\אחזור מידע\מנוע\חלק ב\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\NHunspell.dll
+E:\elinor\לימודים\סמסטר ה\אחזור מידע\מנוע\חלק ב\searchengineapp\searchengineapp\SearchEngineApp\bin\Debug\NHunspell.pdb
+E:\elinor\לימודים\סמסטר ה\אחזור מידע\מנוע\חלק ב\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.csprojResolveAssemblyReference.cache
+E:\elinor\לימודים\סמסטר ה\אחזור מידע\מנוע\חלק ב\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\MainWindow.g.cs
+E:\elinor\לימודים\סמסטר ה\אחזור מידע\מנוע\חלק ב\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\Window1.g.cs
+E:\elinor\לימודים\סמסטר ה\אחזור מידע\מנוע\חלק ב\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\WindowLanguagesList.g.cs
+E:\elinor\לימודים\סמסטר ה\אחזור מידע\מנוע\חלק ב\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\App.g.cs
+E:\elinor\לימודים\סמסטר ה\אחזור מידע\מנוע\חלק ב\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.cache
+E:\elinor\לימודים\סמסטר ה\אחזור מידע\מנוע\חלק ב\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp_MarkupCompile.lref
+E:\elinor\לימודים\סמסטר ה\אחזור מידע\מנוע\חלק ב\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\MainWindow.baml
+E:\elinor\לימודים\סמסטר ה\אחזור מידע\מנוע\חלק ב\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\Window1.baml
+E:\elinor\לימודים\סמסטר ה\אחזור מידע\מנוע\חלק ב\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\WindowLanguagesList.baml
+E:\elinor\לימודים\סמסטר ה\אחזור מידע\מנוע\חלק ב\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.g.resources
+E:\elinor\לימודים\סמסטר ה\אחזור מידע\מנוע\חלק ב\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.Properties.Resources.resources
+E:\elinor\לימודים\סמסטר ה\אחזור מידע\מנוע\חלק ב\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.csproj.GenerateResource.Cache
+E:\elinor\לימודים\סמסטר ה\אחזור מידע\מנוע\חלק ב\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.exe
+E:\elinor\לימודים\סמסטר ה\אחזור מידע\מנוע\חלק ב\searchengineapp\searchengineapp\SearchEngineApp\obj\Debug\SearchEngineApp.pdb

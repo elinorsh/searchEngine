@@ -1,0 +1,84 @@
+﻿<Window x:Class="SearchEngineApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SearchEngineApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="550" Width="525" Topmost="True" WindowStartupLocation="CenterScreen" Activated="Window_Activated">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="pack://application:,,,/pics/glass.jpg" Stretch="UniformToFill" Opacity="0.3" AlignmentY="Top"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+        <Image Source="pack://application:,,,/pics/dog1.jpg" Grid.Column="0" Grid.Row="0"></Image>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.5*" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="5*" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="0.5*" />
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="1">
+                <TextBlock Text="Load Files From:" Grid.Column="1" Margin="5,5,5,5" ></TextBlock>
+                <TextBlock Text="Save Files To:" Grid.Column="1" Grid.Row="2" Margin="5,5,5,5"></TextBlock>
+                
+            </StackPanel>
+            <StackPanel Grid.Column="2">
+                <TextBox Grid.Column="2" Grid.Row="0" Name="textBoxLoad"  Margin="5,5,5,5"></TextBox>
+                <TextBox Grid.Column="2" Grid.Row="2" Name="textBoxSave"  Margin="5,5,5,5"></TextBox>
+                
+            </StackPanel>
+            <StackPanel Grid.Column="3">
+                <Button Name="BrowseFromButton" Content="Browse" Grid.Column="3" Grid.Row="0" BorderThickness="1" Click="Button_Click" Margin="5,5,5,5"/>
+                <Button Name="BrowseToButton" Content="Browse" Grid.Column="3" Grid.Row="2" BorderThickness="1" Click="Button_Click_1" Margin="5,5,5,5"></Button>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="2" Margin="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.5*" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="0.5*" />
+                <ColumnDefinition Width="3*" />
+                <ColumnDefinition Width="0.5*" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="0.5*" />
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="1" Grid.Row="0">
+                <CheckBox Content="Stemmer" Grid.Column="1" Grid.Row="1" Margin="0,5,0,5" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked" Name="StemmerCheckBox"></CheckBox>
+                <CheckBox Content="Save To File" Grid.Column="1" Grid.Row="1" Margin="0,5,0,5" Checked="SaveToFile_Checked" Unchecked="SaveToFile_Unchecked" Name="SaveToFileCheckBox"></CheckBox>
+                <Button Grid.Column="3" Grid.Row="0" Margin="0,5,0,5" Name="languagesList" Visibility="Hidden" Content="Choose Languages" Click="languagesList_Click"/>
+                <Button Content="Clear All" Grid.Column="1" Grid.Row="3" Margin="0,5,0,5" Click="Button_Click_2" Name="Clear_Buttom"></Button>
+            </StackPanel>
+            <StackPanel Grid.Column="1" Grid.Row="1">
+            </StackPanel>
+            <TextBlock Name="timerText" Grid.Column="5" Grid.Row="3"></TextBlock>
+            <StackPanel Grid.Column="3" Grid.Row="0">
+            <Image Source="pack://application:,,,/pics/hat1.png" Width="50" Margin="0,5,0,0"></Image>
+                <Button Content="Index The Corpus"  BorderThickness="1" Margin="0,0,0,10" Click="Button_Click_3" Name="Go_Buttom"/>
+                <TextBlock Text="Enter the query:" VerticalAlignment="Bottom" Margin="0,5,0,0"></TextBlock>
+                <TextBox Name="QueryInput" Margin="0,5,0,5" TextChanged="QueryInput_TextChanged" ></TextBox>
+                <Button Content="Find Documents!" Margin="0,5,0,10" Name="QueryButtom" Height="30" Width="100" VerticalAlignment="Top" Click="QueryButtom_Click"></Button>
+            </StackPanel>
+            <StackPanel Grid.Column="5" >
+                <Button Content="Show Dictionary" Margin="0,10,0,5" Name="DictionaryShow_Buttom" Grid.Column="5" Grid.Row="3" Click="DictionaryShow_Buttom_Click"></Button>
+                <Button Content="Load Data" Margin="0,5,0,5" Name="LoadData_Buttom" Grid.Column="5" Grid.Row="1" Click="LoadData_Buttomm_Click"/>
+                <Button Content="Choose Posting path" Margin="0,5,0,5" Name="PostingPath_Buttom" Grid.Column="5" Grid.Row="1" Click="PostingPath_Buttom_Click"/>
+                <Button Content="Load Queries File" Margin="0,5,0,5" Name="LoadQureisFile" Grid.Column="5" Grid.Row="1" Click="LoadQureisFile_Buttom_Click"/>
+
+            </StackPanel>
+        </Grid>
+            <ListBox Name="AnswerTextList" ScrollViewer.VerticalScrollBarVisibility="Visible" Grid.Row="3"></ListBox>
+        
+    </Grid>
+</Window>
